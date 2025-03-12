@@ -3,9 +3,7 @@
 ### 🚀 Software Developer | Java | Spring Boot | Microservices | Machine Learning
 
 🔹 Passionate about backend development, scalable systems, and AI-driven applications. 
-
 🔹 Experienced in designing RESTful APIs and cloud-based fintech solutions. 
-
 🔹 Constantly learning and building innovative software solutions.
 
 ---
@@ -17,12 +15,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23008080.svg?style=for-the-badge&logo=ai&logoColor=white)
 
 🔹 Java | Python | SQL | HTML | CSS | JavaScript  
 🔹 Spring Boot | Microservices | Hibernate | JDBI  
 🔹 Cloud: Microsoft Azure (Interest in AWS)  
 🔹 Dev Tools: IntelliJ IDEA | Git | Postman | Nginx  
-🔹 AI/ML: Machine Learning | NLP | Data Structures & Algorithms  
+🔹 AI/ML: Machine Learning | Deep Learning | NLP | Computer Vision | Data Structures & Algorithms  
 
 ---
 
