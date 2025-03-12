@@ -3,7 +3,9 @@
 ### 🚀 Software Developer | Java | Spring Boot | Microservices | Machine Learning
 
 🔹 Passionate about backend development, scalable systems, and AI-driven applications. 
+
 🔹 Experienced in designing RESTful APIs and cloud-based fintech solutions. 
+
 🔹 Constantly learning and building innovative software solutions.
 
 ---
